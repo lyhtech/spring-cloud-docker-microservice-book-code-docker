@@ -1,0 +1,26 @@
+*.class
+target/
+**/target/
+
+
+# Eclipse project files
+.classpath
+.project
+.setting
+.ides/
+**/.idea/s
+
+# IDEA metadata and output dirs
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# gitbook
+_book
+tmp
+.springBeans
+
+#Mac
+.DS_Store
+**/.DS_Store
